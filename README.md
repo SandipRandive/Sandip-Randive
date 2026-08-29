@@ -49,18 +49,15 @@ Real-time weather dashboard built with React and OpenWeather API.
 
 ---
 
-### ⚡ Energy Consumption Prediction & Optimization
-Machine learning project for predicting and analyzing energy consumption.
-
-**Tech:** Python • Machine Learning • Random Forest • Streamlit
+### Attendance-Management-System
 
 ---
+### 🌍 Language Identification using Naive Bayes
+Language Identification using Naive Bayes is an intelligent system that automatically detects the language of any given text input.
 
-### 📅 Schedulizer
-Smart task scheduling simulator with a graphical interface.
+**Tech:** Python • Naive Bayes (Scikit-learn) • HTML, CSS • Data Handling -	Pandas, NumPy
 
-**Tech:** Python • Tkinter
-
+🔗 [View Project](https://github.com/SandipRandive/Language_Identification_NaiveBayes_)
 ---
 
 ## 📚 Currently Learning
